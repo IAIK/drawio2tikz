@@ -1,4 +1,4 @@
-from parseXML import *
+from drawio2tikz import *
 
 class Anchors:
     def __init__(self, entry, exit):
